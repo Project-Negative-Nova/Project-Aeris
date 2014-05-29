@@ -1,0 +1,44 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Color_A01
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Metal_Corrogated_Shiny
+Ka 0.000000 0.000000 0.000000
+Kd 0.756863 0.756863 0.756863
+Ks 0.330000 0.330000 0.330000
+map_Kd Upper Shouder/Metal_Corrogated_Shiny.jpg
+
+newmtl Metal_Panel
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.458824 0.435294
+Ks 0.330000 0.330000 0.330000
+map_Kd Upper Shouder/Metal_Panel.jpg
+
+newmtl FrontColor
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Metal_Steel_Textured_White
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+map_Kd Upper Shouder/Metal_Steel_Textured_White.jpg
+
+newmtl Ceramic_Tile
+Ka 0.000000 0.000000 0.000000
+Kd 0.933333 0.000000 0.031373
+Ks 0.330000 0.330000 0.330000
+map_Kd Upper Shouder/Ceramic_Tile.png
+
+newmtl Blinds_Roman_Hobbled_Blue
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.600000 0.878431
+Ks 0.330000 0.330000 0.330000
+map_Kd Upper Shouder/Blinds_Roman_Hobbled_Blue.jpg
+
